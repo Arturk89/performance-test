@@ -1,0 +1,9 @@
+.usersContainer {
+    flex: 1;
+    padding: 2rem 2rem;
+    width: 100%;
+}
+
+.usersTable {
+    width: 100%;
+}

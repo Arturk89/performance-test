@@ -1,0 +1,5 @@
+export { InputName } from './InputName'
+export { InputLastName } from './InputLastName'
+export { InputAge } from './InputAge'
+export { Submit } from './Submit'
+export { Title } from './Title'
